@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283190405868",
+    "firebase_url": "https://kapdaabazaar-47897.firebaseio.com",
+    "project_id": "kapdaabazaar-47897",
+    "storage_bucket": "kapdaabazaar-47897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283190405868:android:3b71357cee21bf427753c9",
+        "android_client_info": {
+          "package_name": "com.example.kapdaabazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283190405868-vbkd9qkaapg2evgrbeilggn22vv4q7b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2B4dh7tIrAROgxDJ-W2kSm5wb-kceyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283190405868-vbkd9qkaapg2evgrbeilggn22vv4q7b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
